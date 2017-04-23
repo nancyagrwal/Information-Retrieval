@@ -1,0 +1,22 @@
+A list of the 20 terms with the highest (log) ratio of negative to positive weight 
+
+&nbsp 4.18144738918
+jolie 3.53789714976
+seagal 3.50510732694
+brenner 3.2394041612
+1900 3.19495239863
+pokemon 3.148432383
+8mm 3.12433483142
+silverman 3.04834892444
+bruckheimer 3.04834892444
+memphis 2.99428170317
+supergirl 2.99428170317
+babysitter 2.99428170317
+atrocious 2.99428170317
+psychlo 2.99428170317
+psychlos 2.99428170317
+tango 2.99428170317
+raider 2.93712328933
+mandingo 2.93712328933
+tomb 2.93712328933
+bilko 2.93712328933

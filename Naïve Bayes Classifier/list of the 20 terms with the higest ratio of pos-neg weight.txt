@@ -1,0 +1,23 @@
+A list of the 20 terms with the highest (log) ratio of positive to negative weight.
+
+
+shrek 3.99043461695
+mulan 3.55965170085
+gattaca 3.50700796737
+flynt 3.34607760056
+guido 3.33007725921
+ordell 3.33007725921
+leila 3.29728743639
+sweetback 3.2282945649
+taran 3.19192692073
+homer 3.15418659275
+mallory 3.11496587959
+donkey 3.03158427065
+rounders 2.98713250808
+argento 2.98713250808
+truman's 2.94061249245
+lebowski 2.91651494087
+fei-hong 2.89182232828
+giles 2.89182232828
+farquaad 2.84052903389
+mulan's 2.78646181262
