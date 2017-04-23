@@ -1,0 +1,5 @@
+Taking the first 5 results of both methods of ranking of documents we find that when we are using lucene
+simple analyzer the ranking considers more of parameters for ranking for eg: searching for "global warming potential" the highest ranking document 
+was that contained a part of searched query in document title ie "Global_warming.html" while the the BM25 score only considers the content of the documents and not the title for ranking
+so depending upon the requirements we can use both the alternatives.
+

@@ -1,0 +1,1 @@
+id        Q0       doc_id      rank        BM25_forScore       system_name
