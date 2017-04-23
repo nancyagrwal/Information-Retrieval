@@ -1,0 +1,10 @@
+TASK: Combined Results
+
+1) For each lists of 1000 links, store the depth (number) before a given set of links for that depth.
+Top 1000 links are added to the resultant list based on the priority, which is the depth of the links. Links on 
+depth 1 are more important than links on depth 2 and so on.
+2) Now add all links from list one which are from depth 1. (assuming no repetition of links)
+3) After all links from list one's 1st depth have been added to the resultant list, start adding links from second list’s 1st depth  to the resultant
+list and keep a check if the added link has been previously added or not, if not then add that in the resultant list otherwise
+ignore. Now do the same with other depths.
+4) If in case we have exhausted one list as there can be duplicated in each list, then append the rest of the links from the other list. 

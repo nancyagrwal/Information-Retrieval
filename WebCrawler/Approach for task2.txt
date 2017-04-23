@@ -1,0 +1,38 @@
+APPROACH FOR TASK 2
+
+APPROACH FOR TASK 2.A
+
+Seed URL and keyword is being taken from the user as the input.
+Politeness policy is implemented by putting the 'time.sleep(1)' (sleep 1 sec) before each GET request
+Implemented Breadth First Search for the task. That is the links at initial depth and crawled, and then the crawler moves to the next depth
+(We may not even reach depth 5 if we cross the limit of maximum URL's at a lower depth)
+As a result, the crawler fetches unique 1000 URL's . For a focussed search, I added the keyword 'solar' in the crawler function;
+which fetches all the links with 'solar' in its href or in the anchor text. As outlined, main page is not considered in the search.
+
+TOP URLs for Task 
+1) https://en.wikipedia.org/wiki/Sustainable_energy
+2) https://en.wikipedia.org/wiki/Passive_solar_building_design
+3) https://en.wikipedia.org/wiki/Solar_energy
+4) https://en.wikipedia.org/wiki/Solar_heating
+5) https://en.wikipedia.org/wiki/Solar_photovoltaics
+
+
+
+
+APPROACH FOR TASK 2.B
+
+Seed URL and keyword is being taken from the user as the input.
+Politeness policy is implemented by putting the 'time.sleep(1)' (sleep 1 sec) before each GET request.
+Implemented Depth First Search for the task.
+Therefore, the crawler will recursively use the first link at each depth to reach the lower depth till it reaches depth 5.
+After completing the links at depth 5 for 1st link of 4th depth, the crawler will go to 2nd link of 4th depth and will again 
+go to 5th depth's link and this will continue until it is finished with 1st depth's link.
+For a focussed search, I added the keyword 'solar' in the crawler function;
+which fetches all the links with 'solar' in its href or in the anchor text. As outlined, main page is not considered in the search.
+
+TOP URLs for Task
+1) https://en.wikipedia.org/wiki/Sustainable_energy
+2) https://en.wikipedia.org/wiki/Solar_energy
+3) https://en.wikipedia.org/wiki/Solar_Energy_(journal)
+4) https://en.wikipedia.org/wiki/Solar_heating
+5) https://en.wikipedia.org/wiki/Solar_constant
