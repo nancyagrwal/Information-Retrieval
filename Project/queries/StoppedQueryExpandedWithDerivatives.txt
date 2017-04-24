@@ -1,0 +1,64 @@
+1 articles exist existent existence deal dealings dealer dealing tss time sharing system operating system systemize systemise systematic ibm computers 
+2 interested interestedness articles written prieve udo pooch prieve pooch 
+3 intermediate languages construction construct multi-targeted compilers tcoll 
+4 interested interestedness mechanisms communicating communicate disjoint processes possibly exclusively distributed environment environmental descriptions complete completion completeness mechanisms implementations opposed theoretical work worker workable abstract abstractor abstracter abstractness abstraction abstractive problem problematic problematical remote procedure proceed procedural calls message-passing examples interests 
+5 papers design designer designing implementation implement editing interfaces window-managers command commandment commandant commander interpreters essential essentialness essence essentiality issues human humanness humanity interface interfacial design designer designing views improvements user use efficiency efficient effectiveness effective satisfaction satisfy 
+6 interested articles robotics motion move motional planning geometric geometry combinatorial combination aspects interested interestedness dynamics dynamic arm armor armament armlet motion move motional 
+7 interested interestedness distributed algorithms - concurrent concurrence concur programs processes communicate communication communicator communicatory communicative communicating synchronize synchronizer synchronization synchrony synchronizing message passing pass areas interest include inclusive inclusion fault-tolerance techniques understanding understand correctness correct algorithms 
+8 addressing schemes resources networks resource addressing network operating systems 
+9 security considerations local locality networks network operating systems distributed systems 
+10 parallel languages languages parallel computation computational compute 
+11 setl high level languages 
+12 portable portability operating systems 
+13 code codify coding coder optimization optimize space spacial spacing spacious spatial efficiency efficient 
+14 find finding finder discussions optimal optimum implementations sort sorting sorter algorithms database management manage applications 
+15 find discussions horizontal horizontality microcode optimization optimize special speciality specialness emphasis emphasize emphatic optimization optimize loops global globe optimization optimize 
+16 find finding finder descriptions handling handle operating systems based multiple multiplicity processes message passing pass 
+17 optimization intermediate intermediator intermediation machine machinist machinery code codify coding coder 
+18 languages compilers parallel processors especially highly horizontal horizontality microcoded machines code codify coding coder compaction compact 
+19 parallel algorithms 
+20 graph theoretic theory algorithms applicable apply applicability sparse sparsity sparseness matrices 
+21 computational computation complexity complexify complex intractability intractable class-complete reductions algorithms efficiency efficient 
+22 interested interestedness hidden-line hidden-surface algorithms cylinders toroids spheres cones conic conical specialized topic topical computer computerize compute computerise graphics 
+23 distributed computing structures algorithms 
+24 applied stochastic processes 
+25 performance evaluation evaluate modelling computer computerize compute computerise systems 
+26 concurrency control controller mechanisms operating systems 
+27 memory management manage aspects operating systems 
+28 information inform packet radio networks interest algorithms packet routing dealing deal network topography topographical topographic interested interestedness hardware network 
+29 number-theoretic algorithms especially involving prime primer number numerical numbering series serial sieves chinese remainder theorem 
+30 articles text textual formatting systems including systems examples nroff scribe scriber bravo 
+31 find finding finder articles describing singular singularity decomposition decompositional decompose digital digit image imagery imaging processing applications include inclusive inclusion finding find approximations original originality image imagery imaging restoring images subject subjection noise noisy article subject subjection andrews patterson outer product produce expansions digital digit image imagery imaging processing american mathematical andrews patterson 
+32 find finding finder articles describing graph graphical algorithms based eigenvalue decomposition decompositional decompose singular singularity decomposition decompositional decompose ajacency matrix graph graphical especially interested interestedness heuristic algorithms graph graphical coloring color graph graphical isomorphism method methodical 
+33 articles sensitivity sensitive eigenvalue decomposition decompositional decompose real realness reality matrices zero-one matrices especially interested interestedness separation separate eigenspaces distinct distinctness eigenvalues articles subject subjection davis kahn rotation rotate eigenvectors permutation permute siam numerical analysis vol 7 1 1970 stewart error bounds approximate approximative invariant invariance subspaces closed linear linearity operators siam numerical analysis vol 8 4 1971 davis kahn stewart 
+34 interested interestedness isolation isolate root rootlet rootage rooting polynomial recent recency recentness material materiality heindel 
+35 probabilistic algorithms especially dealing deal algebraic algebra symbolic symbol manipulation manipulate examples rabiin probabilistic algorithm algorithmic finite finiteness field fielding fielder siam waztch probabilistic testing test polynomial identities siam rabin 
+36 fast algorithm algorithmic context-free language recognition recognize parsing 
+37 articles describing relationship relation data types concurrency type typify typic typist typing process processing processor synchronization synchronize attempt attempter processes type typify typic typist typing correct corrigible correction correctness corrective message-passing system systemize systemise systematic notion notional types messages --i check checker sender send message receiver receive receivership treating bit bitty stream streamlet type typify typic typist typing 
+38 type typify typic typist typing module modular don want wanter entire entireness literature literary abstract data types sure sureness phrase phrasal phrasing avoid avoidance avoidable interested interestedness questions check checker module modular matches contexts 
+39 type typify typic typist typing compatibility compatible mean meanness meaning languages allow allowable allowance programmer program defined types want wanter restrict restrictive restriction extensible extend languages allow allowable allowance definition define abstract abstractor abstracter abstractness abstraction abstractive data types programmer-supplied definitions operators 
+40 list articles dealing deal data types languages referenced frequently papers languages catch catchy catchment catcher languages interesting interestingness type typify typic typist typing structures missed 
+41 theory distributed systems databases subtopics special speciality specialness interest include inclusive inclusion reliability reliable fault-tolerance distributed systems atomicity distributed transactions synchronization synchronize algorithms resource allocation allocate lower lowering bounds models asynchronous parallel systems theory theoretic theorist theoretician theorize theorise communicating communicate processes protocols box 2158 yale station haven conn 06520 
+42 computer performance perform evaluation evaluate techniques pattern recognition recognize clustering cluster la 70803 
+43 analysis perception perceptual perceive shape shaper shapely shaping humans computers shape descriptions shape shaper shapely shaping recognition recognize computer computerize compute computerise two-dimensional shapes measures circularity circular shape matching 
+44 texture analysis analytical analytic analyze computer computerize compute computerise digitized texture analysis analytical analytic analyze texture synthesis synthetic synthetical synthesist synthesise perception texture 
+45 operations research researcher models optimize optimization optimum information inform system systemize systemise systematic performance perform includes fine fineness tuning tune decisions secondary index indexation indexical indexing indexer selection select reorganization reorganize distributed databases 
+46 application apply fuzzy fuzz fuzziness subset theory theoretic theorist theoretician theorize theorise clustering cluster information inform retrieval retrieve problems includes performance perform evaluation evaluate automatic automatize automaton indexing index considerations 
+47 bayesian decision decide models optimize optimization optimum information inform retrieval retrieve system systemize systemise systematic performance perform includes stopping rules determine determinant determination determiner user use cease cessation scanning scan output retrieval retrieve search searcher 
+48 computer computerize compute computerise science scientist principles data structures numerical number methods generating optimization optimize linear linearity programming algorithms includes issues khachian russian ellipsoidal ellipsoid algorithm algorithmic complexity complexify complex algorithms 
+49 role information inform retrieval retrieve knowledge based systems expert expertness expertise systems 
+50 parallel processors information inform retrieval retrieve 
+51 parallel processors paging algorithms 
+52 modelling simulation simulate agricultural ecosystems 
+53 mathematical mathematics induction induce induct group grouping theory theoretic theorist theoretician theorize theorise integers modulo probability probabilistic probable binomial coefficients binomial theorem homomorphism morphism transitivity transitive relations relation relate relationship matrix syracuse university 313 link hall syracuse 13210 
+54 semantics programming languages including abstract abstractor abstracter abstractness abstraction abstractive specifications data types denotational semantics semanticist semantic proofs correctness correct hoare dijkstra university massachusetts amherst ma 01003 
+55 dealing deal star starry stardom height regular regularity languages regular regularity expressions regular regularity events 
+56 articles relation relate relationship algebraic algebra theory theoretic theorist theoretician theorize theorise semigroups monoids study studying studious student automata regular regularity languages 
+57 abstracts articles backus programming liberated von neumann style styler stylize stylist stylistic functional functionality style styler stylize stylist stylistic algebra algebraic algebraical algebraist programs cacm 21 re millo lipton perlis letter let letterer acm forum cacm 22 1979 629 -630 backus de millo lipton perlis 
+58 algorithms statistical statistics packages anova regression regress squares generalized linear linearity models system design designer designing capabilities statistical statistics formula formulary formularize formulate interest student test testee testing tester wilcoxon sign signer signing signify signature tests multivariate univariate components included 
+59 dictionary construction construct accessing methods fast fasting fastness retrieval retrieve words lexical lexicon lexis items morphologically related relatedness information inform hashing indexing index methods applied english spelling spell natural naturalness language problems 
+60 hardware software relating database management manage systems database packages back backing backer end ending computers special speciality specialness associative associate hardware microcomputers attached disk diskette heads things rap relational network codasyl hierarchical hierarchy models systems system ims adabas total 
+61 information retrieval retrieve articles gerard salton clustering cluster bibliographic coupling couple citations co-citations vector space spacial spacing spacious spatial model modeller modeling modeler modelling boolean search searcher methods inverted feedback salton 
+62 results relating parallel complexity complexify complex theory theoretic theorist theoretician theorize theorise pram uniform uniformness uniformize uniformity circuits 
+63 algorithms parallel computation computational compute especially comparisons parallel sequential sequence algorithms 
+64 list articles el1 ecl el1 el 1 don remember remembrance remembering 
