@@ -1,5 +1,0 @@
-Term frequency of each token was divided by total no.of terms in all documents. This gave a noramized term
-frequency. A cutoff value of 0.001 i.e 1/1000 was selected for stoplist generation. Almost all the tokens
-having greater than this values had very high occurenc (>5000) were found in almost all documents in df table
-Also as compared to no of tokens per documents these terms were uniformly seperated throughout the corpus
-and in each document making it lesser informative content.
